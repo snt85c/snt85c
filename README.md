@@ -1,7 +1,7 @@
 # 👋 Hey there
 
 <div align="justify">
-    My name is Santi and I'm a FrontEnd Developer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+    My name is Santi and I'm a Frontend Developer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
 
 # 🔧 Technologies & Tools
