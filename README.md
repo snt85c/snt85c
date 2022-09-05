@@ -135,6 +135,7 @@
 <img
   src="https://github-readme-stats.vercel.app/api?username=snt85c&show_icons=true&theme=react&&hide_border=true"
 />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=snt85c&show_icons=true&theme=react&layout=compact&hide_border=true" alt="snt85c" />
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=snt85c&&theme=react&&hide_border=true"
 />
